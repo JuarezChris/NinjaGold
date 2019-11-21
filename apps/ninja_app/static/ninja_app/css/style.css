@@ -1,0 +1,52 @@
+body{
+    margin: auto;
+    text-align: center;
+    background: url(ninja5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#box1{
+    background-image: url(farm2.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 261px;
+    display: inline-block;
+   
+    
+
+}
+#box2{
+    background: url(cave2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 300px;
+    height: 261px;
+    display: inline-block;
+    
+
+}
+#box3{
+    background: url(house.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 300px;
+    height: 261px;
+    display: inline-block;
+
+}
+#box4{
+    background: url(casino.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 300px;
+    height: 261px;
+    display: inline-block;
+
+}
+p{
+    color : white;
+}
